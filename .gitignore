@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+# build outputs, backups, archives
+build*/
+*.bak-*
+*.obj
+*.res
+*.res.old-*
+*.zip
+*.exe
+*.pdb
